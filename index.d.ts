@@ -24,8 +24,8 @@ declare namespace JSX{
 }
 
 export interface IMapService {
-    AutoSuggest(Query: string): string[];
-    GeoCode(Address:string):IPoint[];
+    AutoSuggest(Query: string):Promise<string[]>;
+    GeoCode(Address:string):Promise<IPoint[]>;
     ReverseGeoCode(Point:IPoint):string[];
     Map(Center:IPoint,ClickHandler:IMapClick):JSX.Element;
 }
