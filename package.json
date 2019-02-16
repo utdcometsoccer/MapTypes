@@ -1,0 +1,26 @@
+{
+  "name": "@types/maptypes",
+  "version": "0.0.1",
+  "description": "Basic Map Types",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utdcometsoccer/MapTypes.git"
+  },
+  "keywords": [
+    "Basic",
+    "Map",
+    "Types",
+    "Typescript",
+    "Defintion"
+  ],
+  "author": "Idaho Edokpayi <idaho@whoisidaho.com> (http:whoisidaho.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/utdcometsoccer/MapTypes/issues"
+  },
+  "homepage": "https://github.com/utdcometsoccer/MapTypes#readme"
+}
