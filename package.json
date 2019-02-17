@@ -22,5 +22,6 @@
   "bugs": {
     "url": "https://github.com/utdcometsoccer/MapTypes/issues"
   },
-  "homepage": "https://github.com/utdcometsoccer/MapTypes#readme"
+  "homepage": "https://github.com/utdcometsoccer/MapTypes#readme",
+  "dependencies": {}
 }
